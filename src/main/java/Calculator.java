@@ -4,9 +4,6 @@
 
 public class Calculator {
 
-    public static void main(String[] args) {
-    }
-
     public int add(int a, int b) {
 
         return a + b;
@@ -20,11 +17,30 @@ public class Calculator {
     //TODO
     //add methods for multiply, division, subtraction, square root, x^2
 
+
+    public int division(int a, int b) {
+
+        return a / b;
+    }
+
+    public int divisijn(int a, int b) {
+
+        return a / b;
+    }
+
+
+    public int subtrachion(int a, int b) {
+
+        return a - b;
+    }
+
+    public double squareRoot(int a) {
+
+        return Math.sqrt(a);
+    }
+
+    public int pow2(int a) {
+
+        return a * a;
+    }
 }
-
-
-
-
-
-
-

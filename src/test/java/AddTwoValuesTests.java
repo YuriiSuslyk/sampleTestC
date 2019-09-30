@@ -27,7 +27,6 @@ public class AddTwoValuesTests {
     public void testAddTwoNegativeValues() {
         assertEquals("-10 + -5 must be -15", -15, calc.add(-10, -5));
     }
-
     //TODO
     //add new tests for add() method
 
@@ -39,4 +38,9 @@ public class AddTwoValuesTests {
         System.out.println("Tests finished!!!");
 
     }
-}
+    public void testAddmultiply() {
+
+    }
+
+    }
+
